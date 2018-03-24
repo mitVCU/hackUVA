@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C08CC392066D4920016A384 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C08CC382066D4920016A384 /* MainViewController.swift */; };
 		415D58ED2066959600320A1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415D58EC2066959600320A1B /* AppDelegate.swift */; };
 		415D58EF2066959600320A1B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 415D58EE2066959600320A1B /* art.scnassets */; };
 		415D58F12066959600320A1B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415D58F02066959600320A1B /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C08CC382066D4920016A384 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		415D58E92066959600320A1B /* hackUVA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hackUVA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		415D58EC2066959600320A1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		415D58EE2066959600320A1B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				415D58F52066959600320A1B /* Assets.xcassets */,
 				415D58F72066959600320A1B /* LaunchScreen.storyboard */,
 				415D58FA2066959600320A1B /* Info.plist */,
+				1C08CC382066D4920016A384 /* MainViewController.swift */,
 			);
 			path = hackUVA;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C08CC392066D4920016A384 /* MainViewController.swift in Sources */,
 				415D58F12066959600320A1B /* ViewController.swift in Sources */,
 				415D58ED2066959600320A1B /* AppDelegate.swift in Sources */,
 			);
